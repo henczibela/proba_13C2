@@ -1,1 +1,2 @@
-Údvözlünk a Git-ben!
+Üdvözlünk a Git-ben!
+Windows Cygwinből módosítva
